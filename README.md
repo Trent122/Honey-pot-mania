@@ -1,2 +1,2 @@
 # solidity
-Solidity code samples from /u/Maleficent_Plankton
+Solidity code samples from /u/Maleficent_Plankton.
